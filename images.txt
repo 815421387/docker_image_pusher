@@ -6,4 +6,5 @@
 #nginx
 #mysql:5.7
 #jenkins/jenkins:lts
-openjdk:8-jdk
+#openjdk:8-jdk
+openjdk:17-jdk
