@@ -7,4 +7,5 @@
 #mysql:5.7
 #jenkins/jenkins:lts
 #openjdk:8-jdk
-openjdk:17-jdk
+#openjdk:17-jdk
+redis:6.0
